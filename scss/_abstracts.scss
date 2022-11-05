@@ -10,6 +10,7 @@ $date-color: #ffb320;
 $comment-color: #08abbd;
 $gray-color: #9f9f9f;
 $light-color: #fefefe;
+$general-transition: all .5s;
 
 //!  /* Utilities */
 .bg {
@@ -26,6 +27,17 @@ $light-color: #fefefe;
     &-2 { //ml-2
         margin-left: 2rem;
     }
+}
+
+.text-light {
+  color: $light-color;
+}
+
+.text-center {
+  text-align: center;
+}
+.text-primary {
+  color: $primary-color;
 }
 
 // !  /* mixins  */
