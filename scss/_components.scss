@@ -9,6 +9,10 @@
     outline: none;
     letter-spacing: 2px;
 
+    @include media(medium) {
+    padding: .5rem 1rem;
+    }
+
     &:hover {
         background-color: $primary-color;
         color: $light-color;
