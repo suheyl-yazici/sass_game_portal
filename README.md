@@ -1,1 +1,3 @@
-# sass_game_portal
+Scss kullanarak örnek bir web sitesinin ana sayfasını klonlamaya çalıştım. Grid, Flex yapıları ve daha birçok css özelliklerini kullandığım proje, responsive haldedir.Projeye aşağıdaki linkten ulaşabilirsiniz...
+
+Proje Linki: https://suheyl-yazici.github.io/sass_game_portal/
